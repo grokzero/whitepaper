@@ -37,6 +37,8 @@ The financial landscape is evolving, and GROK Zero aims to be at the forefront o
 2. Tokenomics:
 GROK Zero has carefully crafted a tokenomics model to ensure the project's sustainability, reward early supporters, and stimulate the growth of a robust ecosystem.
 
+Token Contract Address: 7UvmmqYK8UNuhP74grxYfMneYpc1eY3SGy7ujgdra3zw 
+
 Total Supply: 50 Billion tokens contracts fully renounced, with the following allocations on launch. 
 
 Presale (5 Billion tokens): Allocated for the initial liquidity to jumpstart the project, with any remaining tokens spilling over to the public sale.
